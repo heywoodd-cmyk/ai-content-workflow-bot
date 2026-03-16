@@ -3,7 +3,7 @@
 A lightweight Python prototype that converts internal product content (blog posts, notes, updates) into social media drafts using AI.
 
 ## Purpose
-This project explores how small AI agents can automate parts of a go-to-market (GTM) content workflow. Instead of manually writing social posts from internal materials, the script generates structured drafts that marketing or growth teams can quickly edit and publish.
+This project explores how small AI agents can automate parts of GTM content workflow. Instead of manually writing social posts from internal materials, the script generates structured drafts that marketing or growth teams can quickly edit and publish.
 
 ## How It Works
 1. Internal content is stored in the `/content` folder.
