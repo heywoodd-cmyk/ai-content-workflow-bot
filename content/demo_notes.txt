@@ -1,0 +1,5 @@
+Sapien integrates with ERP and operational systems to analyze financial workflows in real time.
+
+Instead of simply showing financial metrics, the system identifies inconsistencies across systems and highlights areas where forecasts, margins, or allocations may be incorrect.
+
+The goal is to give finance teams a layer of intelligence that helps them detect problems earlier and maintain financial integrity across the organization.
